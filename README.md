@@ -8,10 +8,11 @@
   </ul>
 </div>
 
+
 <!--start about me -->
 Thanks for stopping by, this is **Javier**.
 
-<img align='right' src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="230">
+<img align='right' src="https://github.com/JaviFlores28/JaviFlores28/assets/68314230/a0116665-1093-44bc-a517-86538ff3eb6f?raw=true" width="230">
 
 ```javascript
 const Javier = {
