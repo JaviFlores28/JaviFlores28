@@ -19,12 +19,13 @@ const Javier = {
     askMeAbout: ["Junior Software Engineering", "web dev", "gamer"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Vue", "React", "Laravel"],
+            js: ["Angular", "Vue", "React", "NodeJs"],
             css: ["Bootstrap", "Tailwind", "Sass"]
         },
-        backEnd: ["Java", "PHP", "C#", "Typescript", "NodeJS"],
+        backEnd: ["Java", "PHP", "C#"],
         databases: ["MySql", "Oracle", "Postgres", "SQL server"],
-        mobileDev: ["Flutter", "Xamarin", "Kotlin"],
+        mobileDev: ["Flutter", "Xamarin"],
+    games: ["Halo", "Valorant","LOL"]
     },
     bio:{
     		"- ⚡ Quick bio:":                    "I am a Junior Software Engineering at Faculty of Electronic and Industrial Systems Engineering at Technical University of Ambato.",
